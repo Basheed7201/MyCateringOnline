@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+}
+.section{
+    width: 100%;
+    min-height: 500px;
+    
+    
+}
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+.content-section{
+    float:left;
+    width: 55%;
+}
+.image-section {
+    float: right;
+    width: 40%;
+    padding: 0px 30px;
+}
+.image-section img{
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+.title{
+    text-align: center;
+    font-family: "Bree Serif", serif;
+}
+.content p{
+    padding: 6px;
+    font-family: "Bree Serif", serif;
+}
+.btn {
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: rgb(63, 63, 158);
+    color: white;
+    cursor:pointer;
+    margin: 17px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: "Baloo Bhai 2", serif;
+}
+.social a{
+    padding: 10px;
+    padding-left: 10px ;
+    text-decoration: none;
+    
+}
